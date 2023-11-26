@@ -1,5 +1,6 @@
 t1
 
 change1 - to make changes on the remote repo
-
 branch bugfix
+practice merging 
+practice merging2
